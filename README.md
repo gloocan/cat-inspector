@@ -1,6 +1,7 @@
 # 🐱 Cat Inspector SDK
-
-<img src="./logo.png" alt="logo" style="width:200px;"  />
+<center>
+  <img src="./logo.png" alt="logo" style="width:400px;"  />
+</center>
 
 
  **Welcome!** This is the official home of the TypeScript SDK that connects your backend to QA and inspection tooling—safely, deliberately, and without handing the internet a remote-code-execution button. ✨
