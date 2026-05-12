@@ -1,0 +1,1 @@
+{"version":3,"file":"socket-io.d.ts","sourceRoot":"","sources":["../../src/transport/socket-io.ts"],"names":[],"mappings":"AAAA,OAAO,EACN,YAAY,EACZ,yBAAyB,EACzB,0BAA0B,EAC1B,KAAK,mBAAmB,EACxB,KAAK,iBAAiB,EACtB,KAAK,kBAAkB,GACvB,MAAM,2BAA2B,CAAA;AAClC,OAAO,EAAE,oCAAoC,EAAE,MAAM,qCAAqC,CAAA;AAC1F,OAAO,EACN,4BAA4B,EAC5B,KAAK,wBAAwB,EAC7B,KAAK,wBAAwB,GAC7B,MAAM,gCAAgC,CAAA"}

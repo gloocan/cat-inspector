@@ -1,0 +1,1 @@
+{"version":3,"file":"socket-io.js","sourceRoot":"","sources":["../../src/transport/socket-io.ts"],"names":[],"mappings":"AAAA,OAAO,EACN,YAAY,EACZ,yBAAyB,EACzB,0BAA0B,GAI1B,MAAM,2BAA2B,CAAA;AAClC,OAAO,EAAE,oCAAoC,EAAE,MAAM,qCAAqC,CAAA;AAC1F,OAAO,EACN,4BAA4B,GAG5B,MAAM,gCAAgC,CAAA"}
